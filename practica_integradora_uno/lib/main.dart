@@ -3,6 +3,7 @@ import 'package:practica_integradora_uno/home/home.dart';
 import 'package:practica_integradora_uno/login/startup.dart';
 import 'package:practica_integradora_uno/utils/constants.dart';
 
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget { 
